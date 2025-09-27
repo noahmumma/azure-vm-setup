@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
+![msa-screenshot](https://github.com/user-attachments/assets/9dba2258-be8c-403b-8ff0-a28d70f6d9e3)
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
