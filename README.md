@@ -1,5 +1,5 @@
 <p align="center">
-<img src="(https://i.imgur.com/LjLZShf.jpeg)" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/LjLZShf.jpeg" alt="Microsoft Active Directory Logo"/>
 </p>
 
 
