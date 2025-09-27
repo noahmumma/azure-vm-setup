@@ -25,7 +25,7 @@ This tutorial outlines the setup and deployment of Azure virtual machines using 
 
 - Step 1: Create an account on Microsoft Azure
 - Step 2: Create a resource group
-- Step 3: Create a virtual machine (VM) under the previously created resource group
+- Step 3: Create a virtual machine (VM) and place it into the previously created resource group
 - Step 4: Take the VM's public IP address, and access the VM through Remote Desktop Connection
 
 <h2>Deployment and Configuration Steps</h2>
