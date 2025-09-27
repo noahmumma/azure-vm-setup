@@ -3,8 +3,8 @@
 </p>
 
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Setup and Deployment of VMs (Azure)</h1>
+This tutorial outlines the setup and deployment of Azure virtual machines using Remote Desktop Protocl (RDP).<br />
 
 
 <h2>Video Demonstration</h2>
