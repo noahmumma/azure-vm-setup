@@ -4,7 +4,7 @@
 
 
 <h1>Setup and Deployment of VMs (Azure)</h1>
-This tutorial outlines the setup and deployment of Azure virtual machines using Remote Desktop Protocl (RDP).<br />
+This tutorial outlines the setup and deployment of Azure virtual machines using Remote Desktop Protocol (RDP).<br />
 
 
 <h2>Video Demonstration</h2>
@@ -15,8 +15,6 @@ This tutorial outlines the setup and deployment of Azure virtual machines using 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
