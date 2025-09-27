@@ -13,21 +13,20 @@ This tutorial outlines the setup and deployment of Azure virtual machines using 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
 - Google Chrome
+- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Create an account on Microsoft Azure
+- Step 2: Create a resource group
+- Step 3: Create a virtual machine (VM) under the previously created resource group
+- Step 4: Take the VM's public IP address, and access the VM through Remote Desktop Connection
 
 <h2>Deployment and Configuration Steps</h2>
 
