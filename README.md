@@ -1,4 +1,6 @@
-![msa-screenshot](https://github.com/user-attachments/assets/ba6ab570-7505-4e61-9e84-486e6e91090d)
+<p align="center">
+<img src="(https://i.imgur.com/LjLZShf.jpeg)" alt="Microsoft Active Directory Logo"/>
+</p>
 
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
