@@ -13,8 +13,8 @@ This tutorial outlines the setup and deployment of Azure virtual machines using 
 
 <h2>Environments and Technologies Used</h2>
 
-- Google Chrome
 - Microsoft Azure (Virtual Machines/Compute)
+- Google Chrome
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
