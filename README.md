@@ -1,6 +1,4 @@
-<p align="center">
 ![msa-screenshot](https://github.com/user-attachments/assets/ba6ab570-7505-4e61-9e84-486e6e91090d)
-
 
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
