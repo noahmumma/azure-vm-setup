@@ -34,15 +34,15 @@ This tutorial outlines the setup and deployment of Azure virtual machines using 
 <img src="https://i.imgur.com/70co5im.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, you'll need to create an account on Microsoft Azure. Select whatever plan fits your needs best, but for this tutorial, the free plan has been chosen. From the main page shown above, type into the search box, "Resource Groups", and select the pop-up. 
+First, you'll need to create an account on Microsoft Azure. Select whatever plan fits your needs best, but for this tutorial, the free plan has been chosen. From the main page shown above, type into the search box, "resource groups", and select the pop-up. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lm419bR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, click on "+ Create" and enter the name for the resource group. The name does not matter, as long as you can remember it for future steps. The name for this example is "RG-VM-Example." Then, set your region to whatever area of the world you live in, and select "review + create." Make sure everything looks correct before selecting "create" once more. Wait for the resource group to be deployed, and then enter "virtual machines into the search box. 
 </p>
 <br />
 
