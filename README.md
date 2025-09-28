@@ -57,3 +57,11 @@ Next, select "+ Create" and enter the name for the resource group. The name does
 Again, select "+ create", and then "virtual machine". Next, place this virtual machine into the resource group previously created. There are a multitude of different options for VM creation, but this example will be creating a Windows 10 Pro VM image. Choose the options that best fit your needs, such as region (place the VM in the same region as the RG), the size, and a username/password you can remember. Then, make sure to scroll all the way down and select the licensing box at the bottom. With the creation of this VM, Azure is going to also create a brand new subnet. Any additional VMs that you create should be placed on the same subnet, which you can find on the "Networking" tab in VM creation. But since this is the first VM, do not worry about this step. Finally, create the VM and wait for deployment. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
