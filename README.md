@@ -47,7 +47,7 @@ Next, select "+ Create" and enter the name for the resource group. The name does
 <br />
 
 <p>
-<img src="https://imgur.com/28fdc0cd-298c-4637-8c92-369f323186aa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/89DDDTD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
