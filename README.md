@@ -31,10 +31,10 @@ This tutorial outlines the setup and deployment of Azure virtual machines using 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/kGhcKSQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/70co5im.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, you'll need to create an account on Microsoft Azure. Select whatever plan fits your needs best, but for this tutorial, the free plan has been chosen. From the main page shown above, type into the search box, "Resource Groups", and select the pop-up. 
 </p>
 <br />
 
