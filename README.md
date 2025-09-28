@@ -42,14 +42,18 @@ First, you'll need to create an account on Microsoft Azure. Select whatever plan
 <img src="https://i.imgur.com/lm419bR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, click on "+ Create" and enter the name for the resource group. The name does not matter, as long as you can remember it for future steps. The name for this example is "RG-VM-Example." Then, set your region to whatever area of the world you live in, and select "review + create." Make sure everything looks correct before selecting "create" once more. Wait for the resource group to be deployed, and then enter "virtual machines into the search box. 
+Next, select "+ Create" and enter the name for the resource group. The name does not matter, as long as you can remember it for future steps. The name for this example is "RG-VM-Example." Then, set your region to whatever area of the world you live in, and select "review + create." Make sure everything looks correct before selecting "create" once more. Wait for the resource group to be deployed, and then enter "virtual machines" into the search box. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/28fdc0cd-298c-4637-8c92-369f323186aa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+<img src="https://i.imgur.com/REJuq6Z.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Again, select "+ create", and then "virtual machine". Next, place this virtual machine into the resource group previously created. There are a multitude of different options for VM creation, but this example will be creating a Windows 10 Pro VM image. Choose the options that best fit your needs, such as region (place the VM in the same region as the RG), the size, and a username/password you can remember. Then, make sure to scroll all the way down and select the licensing box at the bottom. With the creation of this VM, Azure is going to also create a brand new subnet. Any additional VMs that you create should be placed on the same subnet, which you can find on the "Networking" tab in VM creation. But since this is the first VM, do not worry about this step. Finally, create the VM and wait for deployment. 
 </p>
 <br />
